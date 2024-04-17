@@ -3,3 +3,6 @@ brain_tumor_MRI_dataset/
 
 # Ignore the lung cancer image-based dataset
 The IQ-OTHNCCD lung cancer dataset/
+
+# Ignore jupyter checkpoints
+.ipynb_checkpoints/
