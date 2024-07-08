@@ -6,3 +6,6 @@ The IQ-OTHNCCD lung cancer dataset/
 
 # Ignore jupyter checkpoints
 .ipynb_checkpoints/
+
+# Ignore the .DS_Store file
+.DS_Store
